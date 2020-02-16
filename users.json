@@ -1,0 +1,10 @@
+{
+    "users": [{ "nama": "ihsandroid", "umur": 24 },
+
+        { "nama": "Chelsea Islan", "umur": 22 },
+
+        { "nama": "Pevita Pearce", "umur": 23 },
+
+        { "nama": "Raline Shah", "umur": 27 }
+    ]
+}
